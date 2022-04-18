@@ -26,8 +26,8 @@
 
 // --- Constantes --- 
 #define TIMEOUT 5000                    // miliSegundos para timeout
-const String strSSID = "@homehorana";   // Nome da rede WiFi
-const String strPSW = "Frutas#2022&X";  // Senha da rede WiFi
+const String strSSID = "@@@@@@@@@@@@";   // Nome da rede WiFi
+const String strPSW = "*************";  // Senha da rede WiFi
 const String strHTML = "<!DOCTYPE html><html lang=\"pt-br\"><head><title>LSI-TEC: IOT105</title><meta charset=\"UTF-8\"></head><body>#c</body></html>";
 //const String strHTML = "#c";
 
